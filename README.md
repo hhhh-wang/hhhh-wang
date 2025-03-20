@@ -20,7 +20,6 @@
 **后端**：Java, Python, Node.js, Nest.js, SpringBoot, SpringCloud  
 **前端**：React, Uni-app  
 **数据库**：MySQL, Redis, TiDB, Doris, Hive  
-**大数据**：Kafka, Flink  
 **运维**：Jenkins, Gitea, CI/CD, Nginx
 
 ## 🏆 项目经历
