@@ -31,7 +31,7 @@
 - 📧 Email: kun64855@gmail.com
 - 🐦 Twitter: [@bianliangrs](https://x.com/bianliangrs)
 - 💬 WeChat: little_xiangzi
-
+- 🌐 网站: [变量人生](https://bianliangrensheng.cn)
 ---
 
 *技术更迭如变量，不断学习是常量。*
