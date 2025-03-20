@@ -6,6 +6,15 @@
 
 我是一名拥有8年+经验的全栈工程师，专注于Java、Python、Node.js和React开发。就像编程中的变量一样，我的技术栈和人生经历也在不断演进、变换。
 
+## 📊 GitHub统计
+
+![变量人生的GitHub统计](https://github-readme-stats.vercel.app/api?username=hhhh-wang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+
+## 💻 常用语言
+
+![变量人生的语言使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhh-wang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
+
 ## 🛠️ 技术栈
 
 **后端**：Java, Python, Node.js, Nest.js, SpringBoot, SpringCloud  
