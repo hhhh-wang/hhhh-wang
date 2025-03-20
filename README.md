@@ -25,8 +25,8 @@
 ## 📫 联系我
 
 - 📧 Email: kun64855@gmail.com
-- 🐦 Twitter: [你的Twitter链接]
-- 💬 WeChat: [你的微信联系方式]
+- 🐦 Twitter: [@bianliangrs](https://x.com/bianliangrs)
+- 💬 WeChat: little_xiangzi
 
 ---
 
