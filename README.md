@@ -14,7 +14,7 @@
 ## 🛠️ 技术栈
 
 **后端**：Java, Python, Node.js, Nest.js, SpringBoot, SpringCloud  
-**前端**：React, Uni-app  
+**前端**：React,Vue, Uni-app  
 **数据库**：MySQL, Redis, TiDB, Doris, Hive  
 **运维**：Jenkins, Gitea, CI/CD, Nginx
 
